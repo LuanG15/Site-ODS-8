@@ -1,0 +1,451 @@
+body{
+    background-color: #eba9bd;
+  }
+  
+  .wrapper{
+    width: 100%;
+    height: 4000px;
+    left: 0px;
+    top: 0px;
+    position: absolute;
+  }
+  
+  #topo{
+    top: 0%;
+    width: 100%;
+    height: 12%;
+    left: 0%;
+    position: absolute;
+  }
+  #onda{
+    position: absolute;
+    width: 99.9%;
+    height: 307px;
+    left: 0px;
+    top: 12%;
+  }
+  .rodape{
+    position: absolute;
+    width: 100%;
+    height: 570px;
+    left: 0px;
+    top: 3430px;
+    background: #a31c44;
+  }
+  .textorodape{
+    position: absolute;
+    width: 859px;
+    height: 291px;
+    left: 353px;
+    top: 3559px;
+    
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 37px;
+    
+    color: #FFFFFF;
+    
+  }
+  .titulorodape{
+    position: absolute;
+  width: 230px;
+  height: 44px;
+  left: 625px;
+  top: 3467px;
+  
+  font-family: 'Jacques Francois';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 45px;
+  line-height: 59px;
+  
+  color: #FFFFFF;
+  
+  }
+  .onulogo{
+    position: absolute;
+  top:0%;
+  
+  }
+  
+  
+  
+  .circulo1{
+    position: absolute;
+    width: 450px;
+    height: 450px;
+    left: 829px;
+    top: 966px;
+    border-radius: 50%;    
+    background: #A31C44;
+    box-shadow: 20px 20px 0px #D64570;
+  }
+  .titulo1{
+    position: absolute;
+    width: 180px;
+    height: 79px;
+    left: 192px;
+    top: 900px;
+    
+    font-family: 'Jacques Francois';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 57px;
+    line-height: 79px;
+    
+    color: #000000;
+    }
+    .texto1{
+      position: absolute;
+      width: 587px;
+      height: 311px;
+      left: 171px;
+      top: 1057px;
+      font-family: 'Montserrat';
+      font-style: normal;
+      font-weight: 400;
+      font-size: 30px;
+      line-height: 43px;
+      color: #000000;
+    }
+    
+  .butom1{
+    position: absolute;
+    width: 527px;
+    height: 87px;
+    left: 171px;
+    top: 1400px;
+    background: #a11b44;
+    border-radius: 20px;
+    position: absolute;
+    width: 468px;
+    height: 45px;
+    left: 192px;
+    top: 1410px;
+    text-align: center;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 45px;
+    color: #FFFFFF;
+    
+  }
+  .butom1:hover{
+    box-shadow: 2px 2px 2px #810d30;
+  }
+  .butom1:active{
+    transform:scale(0.9)
+  }
+  
+  .linha1{
+    position: absolute;
+    width: 1200px;
+    height: 1px;
+    left: 70px;
+    top: 1589px;
+    background: #710021;
+  }
+  
+  
+  
+  
+  
+  .circulo2{
+    position: absolute;
+    width: 450px;
+    height: 450px;
+    left: 149px;
+    top: 1732px;
+    background: #a31c44;
+    box-shadow: 20px 20px 0px #d64570;
+    border-radius: 50%;   
+  }
+  .butom2{
+    position: absolute;
+    width: 527px;
+    height: 87px;
+    left: 758px;
+    top: 2198px;
+    background: #a11b44;
+    border-radius: 20px;
+      position: absolute;
+      width: 468px;
+      height: 45px;
+      left: 779px;
+      top: 2223px;
+      text-align: center;
+      font-family: 'Montserrat';
+      font-style: normal;
+      font-weight: 400;
+      font-size: 25px;
+      line-height: 45px;
+      
+      color: #FFFFFF;
+  
+  }
+  .butom2:hover{
+    box-shadow: 2px 2px 2px #810d30;
+  }
+  .butom2:active{
+    transform:scale(0.9)
+  }
+  .linha2{
+    position: absolute;
+    width: 1200px;
+    height: 1px;
+    left: 70px;
+    top: 2393px;
+    background: #710021;
+  }
+  .titulo2{
+    position: absolute;
+    width: 180px;
+    height: 79px;
+    left: 1074px;
+    top: 1664px;
+    
+    font-family: 'Jacques Francois';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 57px;
+    line-height: 79px;
+    
+    color: #000000;
+    
+    }
+    .texto2{
+      position: absolute;
+      width: 587px;
+      height: 484px;
+      left: 699px;
+      top: 1837px;
+      font-family: 'Montserrat';
+      font-style: normal;
+      font-weight: 400;
+      font-size: 29px;
+      line-height: 43px;
+      text-align: right;
+      color: #000000;
+    
+    }  
+  
+  
+  
+  
+  
+  
+  .circulo3{
+    position: absolute;
+    width: 425px;
+    height: 425px;
+    left: 823px;
+    top: 2575px;
+    background: #a31c44;
+    box-shadow: 20px 20px 0px #d64570;
+    border-radius: 50%;
+  }
+  .butom3{
+    position: absolute;
+    width: 527px;
+    height: 87px;
+    left: 168px;
+    top: 2996px;
+    background: #a31c44;
+    border-radius: 20px;
+    position: absolute;
+    width: 468px;
+    height: 45px;
+    left: 189px;
+    top: 3021px;
+    text-align: center;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 28px;
+    line-height: 45px;
+  
+    color: #FFFFFF;
+  
+    
+  }
+  .butom3:hover{
+    box-shadow: 2px 2px 2px #810d30;
+  }
+  
+  .butom3:active{
+    transform:scale(0.9)
+  }
+  
+  .titulo3{
+  position: absolute;
+  width: 180px;
+  height: 79px;
+  left: 189px;
+  top: 2496px;
+  
+  font-family: 'Jacques Francois';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 57px;
+  line-height: 79px;
+  
+  color: #000000;
+  
+  }
+  .texto3{
+  position: absolute;
+  width: 587px;
+  height: 311px;
+  left: 168px;
+  top: 2653px;
+  
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 35px;
+  line-height: 43px;
+  
+  color: #000000;
+  
+  }
+  
+  .linha3{
+  position: absolute;
+  width: 1200px;
+  height: 3px;
+  left: 70px;
+  top: 3830px;
+  
+  background: #FFFFFF;
+  transform: matrix(1, 0, 0, -1, 0, 0);
+  }
+  .info1{
+    text-align: center;
+    font-size: x-large;
+    size: 20;
+    border-style: solid;
+    border-width: medium;
+    box-shadow: 2px 2px 2px #810d30;
+    border-color: #d64570;
+  }
+  .info2{
+    text-align: center;
+    font-size: x-large;
+    size: 20;
+    border-style: solid;
+    border-width: medium;
+    box-shadow: 2px 2px 2px #810d30;
+    border-color: #d64570;
+  }
+  .info3{
+    text-align: center;
+    font-size: x-large;
+    size: 20;
+    border-style: solid;
+    border-width: medium;
+    box-shadow: 2px 2px 2px #810d30;
+    border-color: #d64570;
+  
+  }
+  .link1{
+    position: absolute;
+  width: 94px;
+  height: 48px;
+  left: 168px;
+  top: 3568px;
+  
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 30px;
+  line-height: 48px;
+  
+  color: #FFFFFF;
+  }
+  .link1:hover{
+    box-shadow: 2px 2px 2px #810d30;
+  }
+  .link2{
+    position: absolute;
+  width: 100px;
+  height: 48px;
+  left: 168px;
+  top: 3650px;
+  
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 30px;
+  line-height: 48px;
+  
+  color: #FFFFFF;
+  
+  }
+  .link2:hover{
+    box-shadow: 2px 2px 2px #810d30;
+  }
+  .link3{
+    position: absolute;
+  width: 101px;
+  height: 48px;
+  left: 168px;
+  top: 3728px;
+  
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 30px;
+  line-height: 48px;
+  
+  color: #FFFFFF;
+  
+  }
+  .link3:hover{
+    box-shadow: 2px 2px 2px #810d30;
+  }
+  
+  .onulogo{
+    position: absolute;
+    top: 3910px;
+    right: 90%;
+  }
+  .twitter{
+    position: absolute;
+    left: 606px;
+    top: 3879px;
+  }
+  .instagram{
+    position: absolute;
+    top: 3879px;
+    right: 700px;
+  }
+  .facebook{
+    position: absolute;
+    left: 54.79%;
+    right: 42.43%;
+    top: 96.97%;
+    bottom: 2.03%;
+  }
+  .imagem{
+  position: absolute;
+  left: -20px;
+  top: -21px;
+  width: 495px;
+  height: 495px;
+  }
+  .imagem2{
+    position: absolute;
+    left: 149px;
+    top: 1732px;
+  
+  }
+  .imagem3{
+    position: absolute;
+    width: 400px;
+    height: 400px;
+    left: 823px;
+    top: 2575px;
+  }
